@@ -1,4 +1,11 @@
-## Chapter 1
+# Math 407 Textbook Answers shhhhhh
+- [Ch 1 Problems](#section-1)
+- [Ch 1 Self-Test](#section-2)
+- [Ch 2 Problems](#section-3)
+
+
+
+## Ch 1 Problems
 
 01a.png
 ![01a.png](answers/Chapter1/Problems/01a.png)
