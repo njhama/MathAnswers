@@ -1,19 +1,29 @@
 import os
 
 # Directory where the images are located
-directory_path = "answers/chapter1/problems"
+directory_path = "answers/chapter1/Self-Test"
 
-# List of exercise names
-exercise_names = [
-    "Exercise 1a", "Exercise 1b", "Exercise 2", "Exercise 3", "Exercise 4", "Exercise 5",
-    "Exercise 6", "Exercise 7a", "Exercise 7b", "Exercise 7c", "Exercise 7d", "Exercise 8a",
-    "Exercise 8b", "Exercise 8c", "Exercise 8d", "Exercise 9", "Exercise 10a", "Exercise 10b",
-    "Exercise 10c", "Exercise 10d", "Exercise 10e", "Exercise 11a", "Exercise 11b", "Exercise 11c",
-    "Exercise 12a", "Exercise 12b", "Exercise 13", "Exercise 14", "Exercise 15", "Exercise 16a",
-    "Exercise 16b", "Exercise 17", "Exercise 18", "Exercise 19a", "Exercise 19b", "Exercise 19c",
-    "Exercise 20a", "Exercise 20b", "Exercise 21", "Exercise 22", "Exercise 23", "Exercise 24",
-    "Exercise 25", "Exercise 26", "Exercise 27", "Exercise 28", "Exercise 29", "Exercise 30",
-    "Exercise 31", "Exercise 32", "Exercise 33a", "Exercise 33b"
+# List of new names
+new_names = [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19"
 ]
 
 # Get the list of image files in the directory
@@ -22,13 +32,13 @@ image_files = [f for f in os.listdir(directory_path) if os.path.isfile(os.path.j
 # Sort the image files alphabetically
 image_files.sort()
 
-# Rename the image files with exercise names
+# Rename the image files with the new names
 for i, image_file in enumerate(image_files):
-    if i < len(exercise_names):
+    if i < len(new_names):
         # Get the file extension
         file_extension = os.path.splitext(image_file)[1]
-        # Construct the new file name with the exercise name and file extension
-        new_file_name = f"{exercise_names[i]}{file_extension}"
+        # Construct the new file name with the new name and file extension
+        new_file_name = f"{new_names[i]}{file_extension}"
         # Full path of the original and new files
         old_file_path = os.path.join(directory_path, image_file)
         new_file_path = os.path.join(directory_path, new_file_name)
