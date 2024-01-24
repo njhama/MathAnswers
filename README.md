@@ -1,7 +1,7 @@
 # Math 407 Textbook Answers shhhhhh
 - [Ch 1 Problems](#ch1p)
-- [Ch 1 Self-Test](#section-2)
-- [Ch 2 Problems](#section-3)
+- [Ch 1 Self-Test](#ch1s)
+- [Ch 2 Problems](#ch1p)
 
 
 
@@ -165,7 +165,7 @@
 
 ## Ch 1 Self-Test <a name="ch1s"></a>
 01
-![01](answers/chapter1/self-test/01.png)
+![01](answers/Chapter1/Self-Test/01.png)
 
 02
 ![02](answers/chapter1/self-test/02.png)
@@ -222,3 +222,4 @@
 ![19](answers/chapter1/self-test/19.png)
 
 
+## Ch 2 Problems <a name="ch2p"></a>
