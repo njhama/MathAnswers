@@ -1,11 +1,11 @@
 # Math 407 Textbook Answers shhhhhh
-- [Ch 1 Problems](#section-1)
+- [Ch 1 Problems](#ch1p)
 - [Ch 1 Self-Test](#section-2)
 - [Ch 2 Problems](#section-3)
 
 
 
-## Ch 1 Problems
+## Ch 1 Problems <a name="ch1p"></a>
 
 01a.png
 ![01a.png](answers/Chapter1/Problems/01a.png)
@@ -162,3 +162,63 @@
 
 33b.png
 ![33b.png](answers/Chapter1/Problems/33b.png)
+
+## Ch 1 Self-Test <a name="ch1s"></a>
+01
+![01](answers/chapter1/self-test/01.png)
+
+02
+![02](answers/chapter1/self-test/02.png)
+
+03
+![03](answers/chapter1/self-test/03.png)
+
+04
+![04](answers/chapter1/self-test/04.png)
+
+05
+![05](answers/chapter1/self-test/05.png)
+
+06
+![06](answers/chapter1/self-test/06.png)
+
+07
+![07](answers/chapter1/self-test/07.png)
+
+08
+![08](answers/chapter1/self-test/08.png)
+
+09
+![09](answers/chapter1/self-test/09.png)
+
+10
+![10](answers/chapter1/self-test/10.png)
+
+11
+![11](answers/chapter1/self-test/11.png)
+
+12
+![12](answers/chapter1/self-test/12.png)
+
+13
+![13](answers/chapter1/self-test/13.png)
+
+14
+![14](answers/chapter1/self-test/14.png)
+
+15
+![15](answers/chapter1/self-test/15.png)
+
+16
+![16](answers/chapter1/self-test/16.png)
+
+17
+![17](answers/chapter1/self-test/17.png)
+
+18
+![18](answers/chapter1/self-test/18.png)
+
+19
+![19](answers/chapter1/self-test/19.png)
+
+
