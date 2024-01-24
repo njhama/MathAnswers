@@ -6,7 +6,8 @@
 
 ## Ch 1 Problems <a name="ch1p"></a>
 
-![01](answers/Chapter1/Problems/01.png)
+![01a](answers/Chapter1/Problems/01a.png)
+![01b](answers/Chapter1/Problems/01b.png)
 ![02](answers/Chapter1/Problems/02.png)
 ![03](answers/Chapter1/Problems/03.png)
 ![04](answers/Chapter1/Problems/04.png)
