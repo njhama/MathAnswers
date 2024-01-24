@@ -12,8 +12,7 @@ function captureFullPage() {
 
     const captureAndScroll = () => {
         chrome.tabs.captureVisibleTab(null, {format: 'png'}, (dataUrl) => {
-            // You would need to send this dataUrl to your background script or a server
-            // where you can stitch the images together.
+        
             console.log('Captured dataUrl:', dataUrl);
 
             scrollTop += scrollBy;

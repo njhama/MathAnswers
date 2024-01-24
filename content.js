@@ -1,12 +1,8 @@
-chrome.runtime.onMessage.addListener(function(request, sender, sendResponse) {
-    if (request.action === "startAction") {
-        const targetButtonSelector = 'button.myTargetButton';
-        const targetButton = document.querySelector(targetButtonSelector);
-        if (targetButton) {
-            targetButton.click();
-            console.log('Button clicked!');
-        } else {
-            console.log('Target button not found.');
-        }
+// content.js
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+    if (message.action === "getInnerHTML") {
+        const element = document.querySelector('h4.h1pyel1o');
+        const innerHTML = element ? element.innerHTML : "test";
+        sendResponse({ innerHTML });
     }
 });
