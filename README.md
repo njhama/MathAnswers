@@ -1,4 +1,4 @@
-# Math 407 Textbook Answers
+# 407 Textbook Answers
 
 - [Ch 1 Problems](#ch1p)
 - [Ch 1 Self-Test](#ch1s)
