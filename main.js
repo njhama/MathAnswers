@@ -1,15 +1,13 @@
-import requests
+const puppeteer = require('puppeteer');
 
-url = 'https://example.com'  # Replace with the URL you want to access
-headers = {
-    'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:80.0) Gecko/20100101 Firefox/80.0'
-}
-
-response = requests.get(url, headers=headers)
-
-if response.status_code == 200:
-    # Process the response content here
-    content = response.text
-    print(content)
-else:
-    print(f"Failed to fetch the page. Status code: {response.status_code}")
+(async () => {
+  const browser = await puppeteer.launch({
+    headless: false,
+    args: ['--no-sandbox'], // Add this argument to avoid issues on certain websites
+    defaultViewport: null,
+    userAgent:
+      'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36',
+  });
+  const page = await browser.newPage();
+  // Rest of your code...
+})();
