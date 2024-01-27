@@ -16,6 +16,7 @@
   More detailed information can be added here. This can include links, lists, images, etc.
 </details>
 
+<details>
 ## Ch 1 Problems <a name="ch1p"></a>
 
 ![01a](answers/Chapter1/Problems/01a.png)
@@ -70,6 +71,7 @@
 ![32](answers/Chapter1/Problems/32.png)
 ![33a](answers/Chapter1/Problems/33a.png)
 ![33b](answers/Chapter1/Problems/33b.png)
+</details>
 
 ## Ch 1 Self-Test <a name="ch1s"></a>
 
