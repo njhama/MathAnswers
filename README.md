@@ -2,7 +2,7 @@
 <details>
 <summary><b>Ch 1 Problems</b></summary>
   <details>
-  <summary><i> Ch1 Problems 1-10 </i></summary>
+  <summary><i> Ch 1 Problems 1-10 </i></summary>
     
   ![01a](answers/Chapter1/Problems/01a.png)
   ![01b](answers/Chapter1/Problems/01b.png)
@@ -28,7 +28,7 @@
   </details>
 
   <details>
-  <summary><i> Ch1 Problems 11-20 </i></summary>
+  <summary><i> Ch 1 Problems 11-20 </i></summary>
   
   ![11a](answers/Chapter1/Problems/11a.png)
   ![11b](answers/Chapter1/Problems/11b.png)
