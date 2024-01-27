@@ -1,7 +1,9 @@
 # 407 Textbook Answers
-
 <details>
 <summary>Ch 1 Problems</summary>
+
+<details>
+<summary>Problems 1-10</summary>
   
 ![01a](answers/Chapter1/Problems/01a.png)
 ![01b](answers/Chapter1/Problems/01b.png)
@@ -24,6 +26,11 @@
 ![10c](answers/Chapter1/Problems/10c.png)
 ![10d](answers/Chapter1/Problems/10d.png)
 ![10e](answers/Chapter1/Problems/10e.png)
+</details>
+
+<details>
+<summary>Problems 11-20</summary>
+
 ![11a](answers/Chapter1/Problems/11a.png)
 ![11b](answers/Chapter1/Problems/11b.png)
 ![11c](answers/Chapter1/Problems/11c.png)
@@ -41,6 +48,11 @@
 ![19c](answers/Chapter1/Problems/19c.png)
 ![20a](answers/Chapter1/Problems/20a.png)
 ![20b](answers/Chapter1/Problems/20b.png)
+</details>
+
+<details>
+<summary>Problems 21-33</summary>
+
 ![21](answers/Chapter1/Problems/21.png)
 ![22](answers/Chapter1/Problems/22.png)
 ![23](answers/Chapter1/Problems/23.png)
@@ -56,6 +68,9 @@
 ![33a](answers/Chapter1/Problems/33a.png)
 ![33b](answers/Chapter1/Problems/33b.png)
 </details>
+
+</details>
+
 
 <details>
 <summary>Ch 1 Self-Test</summary>
@@ -84,6 +99,9 @@
 <details>
 <summary>Ch 2 Problems</summary>
 
+<details>
+<summary>Problems 1-10</summary>
+  
 ![01](answers/Chapter2/Problems/01.png)
 ![02](answers/Chapter2/Problems/02.png)
 ![03](answers/Chapter2/Problems/03.png)
@@ -106,6 +124,11 @@
 ![09](answers/Chapter2/Problems/09.png)
 ![10a](answers/Chapter2/Problems/10a.png)
 ![10b](answers/Chapter2/Problems/10b.png)
+</details>
+
+<details>
+<summary>Problems 11-20</summary>
+
 ![11a](answers/Chapter2/Problems/11a.png)
 ![11b](answers/Chapter2/Problems/11b.png)
 ![12a](answers/Chapter2/Problems/12a.png)
@@ -133,6 +156,11 @@
 ![18](answers/Chapter2/Problems/18.png)
 ![19](answers/Chapter2/Problems/19.png)
 ![20](answers/Chapter2/Problems/20.png)
+</details>
+
+<details>
+<summary>Problems 21-30</summary>
+
 ![21a](answers/Chapter2/Problems/21a.png)
 ![21b](answers/Chapter2/Problems/21b.png)
 ![22](answers/Chapter2/Problems/22.png)
@@ -149,6 +177,11 @@
 ![30a](answers/Chapter2/Problems/30a.png)
 ![30b](answers/Chapter2/Problems/30b.png)
 ![30c](answers/Chapter2/Problems/30c.png)
+</details>
+
+<details>
+<summary>Problems 31-40</summary>
+
 ![31a](answers/Chapter2/Problems/31a.png)
 ![31b](answers/Chapter2/Problems/31b.png)
 ![32](answers/Chapter2/Problems/32.png)
@@ -165,6 +198,11 @@
 ![38](answers/Chapter2/Problems/38.png)
 ![39](answers/Chapter2/Problems/39.png)
 ![40](answers/Chapter2/Problems/40.png)
+</details>
+
+<details>
+<summary>Problems 41-56</summary>
+
 ![41](answers/Chapter2/Problems/41.png)
 ![42](answers/Chapter2/Problems/42.png)
 ![43a](answers/Chapter2/Problems/43a.png)
@@ -189,8 +227,15 @@
 ![56](answers/Chapter2/Problems/56.png)
 </details>
 
+</details>
+
+
+
 <details>
 <summary>Ch 2 Self-Test</summary>
+
+<details>
+<summary>Self-Test Questions 1-10</summary>
   
 ![01a](answers/Chapter2/Self-Test/01a.png)
 ![01b](answers/Chapter2/Self-Test/01b.png)
@@ -229,4 +274,4 @@
 ![19b](answers/Chapter2/Self-Test/19b.png)
 ![20](answers/Chapter2/Self-Test/20.png)
 </details>
-
+</details>
