@@ -6,17 +6,6 @@
 - [Ch 2 Self-Test](#ch2s)
 
 <details>
-  <summary>Click to expand!</summary>
-  
-  ### Header Inside Collapsible Section
-  - Point 1
-  - Point 2
-  - Point 3
-  
-  More detailed information can be added here. This can include links, lists, images, etc.
-</details>
-
-<details>
 <summary>Ch 1 Problems</summary>
   
 ![01a](answers/Chapter1/Problems/01a.png)
@@ -73,7 +62,8 @@
 ![33b](answers/Chapter1/Problems/33b.png)
 </details>
 
-## Ch 1 Self-Test <a name="ch1s"></a>
+<details>
+<summary>Ch 1 Self-Test</summary>
 
 ![01](answers/Chapter1/Self-Test/01.png)
 ![02](answers/Chapter1/Self-Test/02.png)
@@ -94,8 +84,10 @@
 ![17](answers/Chapter1/Self-Test/17.png)
 ![18](answers/Chapter1/Self-Test/18.png)
 ![19](answers/Chapter1/Self-Test/19.png)
+</details>
 
-## Ch 2 Problems <a name="ch2p"></a>
+<details>
+<summary>Ch 2 Problems</summary>
 
 ![01](answers/Chapter2/Problems/01.png)
 ![02](answers/Chapter2/Problems/02.png)
@@ -200,8 +192,11 @@
 ![55a](answers/Chapter2/Problems/55a.png)
 ![55b](answers/Chapter2/Problems/55b.png)
 ![56](answers/Chapter2/Problems/56.png)
+</details>
 
-## Ch 2 Self-Test <a name="ch2s"></a>
+<details>
+<summary>Ch 2 Self-Test</summary>
+  
 ![01a](answers/Chapter2/Self-Test/01a.png)
 ![01b](answers/Chapter2/Self-Test/01b.png)
 ![01c](answers/Chapter2/Self-Test/01c.png)
@@ -238,5 +233,5 @@
 ![19a](answers/Chapter2/Self-Test/19a.png)
 ![19b](answers/Chapter2/Self-Test/19b.png)
 ![20](answers/Chapter2/Self-Test/20.png)
-
+</details>
 
