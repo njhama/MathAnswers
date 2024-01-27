@@ -1,32 +1,31 @@
 # 407 Textbook Answers
 <details>
 <summary>Ch 1 Problems</summary>
-
-<details>
-<summary>Problems 1-10</summary>
-  
-![01a](answers/Chapter1/Problems/01a.png)
-![01b](answers/Chapter1/Problems/01b.png)
-![02](answers/Chapter1/Problems/02.png)
-![03](answers/Chapter1/Problems/03.png)
-![04](answers/Chapter1/Problems/04.png)
-![05](answers/Chapter1/Problems/05.png)
-![06](answers/Chapter1/Problems/06.png)
-![07a](answers/Chapter1/Problems/07a.png)
-![07b](answers/Chapter1/Problems/07b.png)
-![07c](answers/Chapter1/Problems/07c.png)
-![07d](answers/Chapter1/Problems/07d.png)
-![08a](answers/Chapter1/Problems/08a.png)
-![08b](answers/Chapter1/Problems/08b.png)
-![08c](answers/Chapter1/Problems/08c.png)
-![08d](answers/Chapter1/Problems/08d.png)
-![09](answers/Chapter1/Problems/09.png)
-![10a](answers/Chapter1/Problems/10a.png)
-![10b](answers/Chapter1/Problems/10b.png)
-![10c](answers/Chapter1/Problems/10c.png)
-![10d](answers/Chapter1/Problems/10d.png)
-![10e](answers/Chapter1/Problems/10e.png)
-</details>
+  <details>
+  <summary>Problems 1-10</summary>
+    
+  ![01a](answers/Chapter1/Problems/01a.png)
+  ![01b](answers/Chapter1/Problems/01b.png)
+  ![02](answers/Chapter1/Problems/02.png)
+  ![03](answers/Chapter1/Problems/03.png)
+  ![04](answers/Chapter1/Problems/04.png)
+  ![05](answers/Chapter1/Problems/05.png)
+  ![06](answers/Chapter1/Problems/06.png)
+  ![07a](answers/Chapter1/Problems/07a.png)
+  ![07b](answers/Chapter1/Problems/07b.png)
+  ![07c](answers/Chapter1/Problems/07c.png)
+  ![07d](answers/Chapter1/Problems/07d.png)
+  ![08a](answers/Chapter1/Problems/08a.png)
+  ![08b](answers/Chapter1/Problems/08b.png)
+  ![08c](answers/Chapter1/Problems/08c.png)
+  ![08d](answers/Chapter1/Problems/08d.png)
+  ![09](answers/Chapter1/Problems/09.png)
+  ![10a](answers/Chapter1/Problems/10a.png)
+  ![10b](answers/Chapter1/Problems/10b.png)
+  ![10c](answers/Chapter1/Problems/10c.png)
+  ![10d](answers/Chapter1/Problems/10d.png)
+  ![10e](answers/Chapter1/Problems/10e.png)
+  </details>
 
 <details>
 <summary>Problems 11-20</summary>
