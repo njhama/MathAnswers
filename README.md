@@ -28,7 +28,7 @@
   </details>
 
 <details>
-<summary>➤ Problems 11-20</summary>
+<summary><i> Problems 11-20 </i></summary>
 
 ![11a](answers/Chapter1/Problems/11a.png)
 ![11b](answers/Chapter1/Problems/11b.png)
@@ -50,7 +50,7 @@
 </details>
 
 <details>
-<summary>➤ Problems 21-33</summary>
+<summary><i> Problems 21-30 </i></summary>
 
 ![21](answers/Chapter1/Problems/21.png)
 ![22](answers/Chapter1/Problems/22.png)
