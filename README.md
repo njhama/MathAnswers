@@ -2,7 +2,7 @@
 <details>
 <summary>Ch 1 Problems</summary>
   <details>
-  <summary>➤  Problems 1-10</summary>
+  <summary>➤ Problems 1-10</summary>
     
   ![01a](answers/Chapter1/Problems/01a.png)
   ![01b](answers/Chapter1/Problems/01b.png)
@@ -28,7 +28,7 @@
   </details>
 
 <details>
-<summary>Problems 11-20</summary>
+<summary>➤ Problems 11-20</summary>
 
 ![11a](answers/Chapter1/Problems/11a.png)
 ![11b](answers/Chapter1/Problems/11b.png)
@@ -50,7 +50,7 @@
 </details>
 
 <details>
-<summary>Problems 21-33</summary>
+<summary>➤ Problems 21-33</summary>
 
 ![21](answers/Chapter1/Problems/21.png)
 ![22](answers/Chapter1/Problems/22.png)
