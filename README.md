@@ -17,8 +17,8 @@
 </details>
 
 <details>
-## Ch 1 Problems <a name="ch1p"></a>
-
+<summary>Ch 1 Problems</summary>
+  
 ![01a](answers/Chapter1/Problems/01a.png)
 ![01b](answers/Chapter1/Problems/01b.png)
 ![02](answers/Chapter1/Problems/02.png)
