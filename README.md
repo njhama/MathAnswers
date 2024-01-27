@@ -5,6 +5,71 @@
 - [Ch 2 Problems](#ch2p)
 - [Ch 2 Self-Test](#ch2s)
 
+<details>
+  <summary>Click to expand!</summary>
+  
+  ### Header Inside Collapsible Section
+  - Point 1
+  - Point 2
+  - Point 3
+  
+  More detailed information can be added here. This can include links, lists, images, etc.
+</details>
+
+## Ch 1 Problems <a name="ch1p"></a>
+
+![01a](answers/Chapter1/Problems/01a.png)
+![01b](answers/Chapter1/Problems/01b.png)
+![02](answers/Chapter1/Problems/02.png)
+![03](answers/Chapter1/Problems/03.png)
+![04](answers/Chapter1/Problems/04.png)
+![05](answers/Chapter1/Problems/05.png)
+![06](answers/Chapter1/Problems/06.png)
+![07a](answers/Chapter1/Problems/07a.png)
+![07b](answers/Chapter1/Problems/07b.png)
+![07c](answers/Chapter1/Problems/07c.png)
+![07d](answers/Chapter1/Problems/07d.png)
+![08a](answers/Chapter1/Problems/08a.png)
+![08b](answers/Chapter1/Problems/08b.png)
+![08c](answers/Chapter1/Problems/08c.png)
+![08d](answers/Chapter1/Problems/08d.png)
+![09](answers/Chapter1/Problems/09.png)
+![10a](answers/Chapter1/Problems/10a.png)
+![10b](answers/Chapter1/Problems/10b.png)
+![10c](answers/Chapter1/Problems/10c.png)
+![10d](answers/Chapter1/Problems/10d.png)
+![10e](answers/Chapter1/Problems/10e.png)
+![11a](answers/Chapter1/Problems/11a.png)
+![11b](answers/Chapter1/Problems/11b.png)
+![11c](answers/Chapter1/Problems/11c.png)
+![12a](answers/Chapter1/Problems/12a.png)
+![12b](answers/Chapter1/Problems/12b.png)
+![13](answers/Chapter1/Problems/13.png)
+![14](answers/Chapter1/Problems/14.png)
+![15](answers/Chapter1/Problems/15.png)
+![16a](answers/Chapter1/Problems/16a.png)
+![16b](answers/Chapter1/Problems/16b.png)
+![17](answers/Chapter1/Problems/17.png)
+![18](answers/Chapter1/Problems/18.png)
+![19a](answers/Chapter1/Problems/19a.png)
+![19b](answers/Chapter1/Problems/19b.png)
+![19c](answers/Chapter1/Problems/19c.png)
+![20a](answers/Chapter1/Problems/20a.png)
+![20b](answers/Chapter1/Problems/20b.png)
+![21](answers/Chapter1/Problems/21.png)
+![22](answers/Chapter1/Problems/22.png)
+![23](answers/Chapter1/Problems/23.png)
+![24](answers/Chapter1/Problems/24.png)
+![25](answers/Chapter1/Problems/25.png)
+![26](answers/Chapter1/Problems/26.png)
+![27](answers/Chapter1/Problems/27.png)
+![28](answers/Chapter1/Problems/28.png)
+![29](answers/Chapter1/Problems/29.png)
+![30](answers/Chapter1/Problems/30.png)
+![31](answers/Chapter1/Problems/31.png)
+![32](answers/Chapter1/Problems/32.png)
+![33a](answers/Chapter1/Problems/33a.png)
+![33b](answers/Chapter1/Problems/33b.png)
 
 ## Ch 1 Self-Test <a name="ch1s"></a>
 
