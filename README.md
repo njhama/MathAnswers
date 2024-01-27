@@ -1,10 +1,5 @@
 # 407 Textbook Answers
 
-- [Ch 1 Problems](#ch1p)
-- [Ch 1 Self-Test](#ch1s)
-- [Ch 2 Problems](#ch2p)
-- [Ch 2 Self-Test](#ch2s)
-
 <details>
 <summary>Ch 1 Problems</summary>
   
