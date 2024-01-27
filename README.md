@@ -1,6 +1,6 @@
 # 407 Textbook Answers
 <details>
-<summary><b>Ch 1 Problems</b></summary>
+<summary><strong>Ch 1 Problems</strong></summary>
   <details>
   <summary>➤ Problems 1-10</summary>
     
