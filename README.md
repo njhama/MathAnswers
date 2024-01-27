@@ -259,6 +259,10 @@
 ![09a](answers/Chapter2/Self-Test/09a.png)
 ![09b](answers/Chapter2/Self-Test/09b.png)
 ![10](answers/Chapter2/Self-Test/10.png)
+</details>
+<details>
+<summary>Self-Test Questions 11-20</summary>
+  
 ![11](answers/Chapter2/Self-Test/11.png)
 ![12](answers/Chapter2/Self-Test/12.png)
 ![13](answers/Chapter2/Self-Test/13.png)
