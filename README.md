@@ -72,7 +72,7 @@
 
 
 <details>
-<summary>Ch 1 Self-Test</summary>
+<summary><b>Ch 1 Self-Test</b></summary>
 
   <details>
   <summary><i> Ch 1 Self-Test 1-10 </i></summary>
@@ -108,7 +108,7 @@
 <summary><b> Ch 2 Problems</b></summary>
 
   <details>
-  <summary><i> >Ch 2 Problems 1-10 </i></summary>
+  <summary><i> Ch 2 Problems 1-10 </i></summary>
     
   ![01](answers/Chapter2/Problems/01.png)
   ![02](answers/Chapter2/Problems/02.png)
@@ -135,7 +135,7 @@
   </details>
   
   <details>
-  <summary><i> >Ch 2 Problems 11-20 </i></summary>
+  <summary><i> Ch 2 Problems 11-20 </i></summary>
   
   ![11a](answers/Chapter2/Problems/11a.png)
   ![11b](answers/Chapter2/Problems/11b.png)
@@ -167,7 +167,7 @@
   </details>
   
   <details>
-  <summary><i> >Ch 2 Problems 21-30 </i></summary>
+  <summary><i> Ch 2 Problems 21-30 </i></summary>
   
   ![21a](answers/Chapter2/Problems/21a.png)
   ![21b](answers/Chapter2/Problems/21b.png)
@@ -188,7 +188,7 @@
   </details>
   
   <details>
-  <summary><i> >Ch 2 Problems 31-40 </i></summary>
+  <summary><i> Ch 2 Problems 31-40 </i></summary>
   
   ![31a](answers/Chapter2/Problems/31a.png)
   ![31b](answers/Chapter2/Problems/31b.png)
@@ -209,7 +209,7 @@
   </details>
   
   <details>
-  <summary><i> >Ch 2 Problems 41-56 </i></summary>
+  <summary><i> Ch 2 Problems 41-56 </i></summary>
   
   ![41](answers/Chapter2/Problems/41.png)
   ![42](answers/Chapter2/Problems/42.png)
@@ -240,50 +240,51 @@
 
 
 <details>
-<summary>Ch 2 Self-Test</summary>
-
-<details>
-<summary>Self-Test Questions 1-10</summary>
+<summary><b> Ch 2 Self-Test</b></summary>
   
-![01a](answers/Chapter2/Self-Test/01a.png)
-![01b](answers/Chapter2/Self-Test/01b.png)
-![01c](answers/Chapter2/Self-Test/01c.png)
-![01d](answers/Chapter2/Self-Test/01d.png)
-![01e](answers/Chapter2/Self-Test/01e.png)
-![01f](answers/Chapter2/Self-Test/01f.png)
-![02a](answers/Chapter2/Self-Test/02a.png)
-![02b](answers/Chapter2/Self-Test/02b.png)
-![03](answers/Chapter2/Self-Test/03.png)
-![04](answers/Chapter2/Self-Test/04.png)
-![05a](answers/Chapter2/Self-Test/05a.png)
-![05b](answers/Chapter2/Self-Test/05b.png)
-![06](answers/Chapter2/Self-Test/06.png)
-![07a](answers/Chapter2/Self-Test/07a.png)
-![07b](answers/Chapter2/Self-Test/07b.png)
-![07c](answers/Chapter2/Self-Test/07c.png)
-![08a](answers/Chapter2/Self-Test/08a.png)
-![08b](answers/Chapter2/Self-Test/08b.png)
-![08c](answers/Chapter2/Self-Test/08c.png)
-![09a](answers/Chapter2/Self-Test/09a.png)
-![09b](answers/Chapter2/Self-Test/09b.png)
-![10](answers/Chapter2/Self-Test/10.png)
-</details>
-<details>
-<summary>Self-Test Questions 11-20</summary>
+  <details>
+  <summary><i> Self-Test Questions 1-10 </i></summary>
+    
+  ![01a](answers/Chapter2/Self-Test/01a.png)
+  ![01b](answers/Chapter2/Self-Test/01b.png)
+  ![01c](answers/Chapter2/Self-Test/01c.png)
+  ![01d](answers/Chapter2/Self-Test/01d.png)
+  ![01e](answers/Chapter2/Self-Test/01e.png)
+  ![01f](answers/Chapter2/Self-Test/01f.png)
+  ![02a](answers/Chapter2/Self-Test/02a.png)
+  ![02b](answers/Chapter2/Self-Test/02b.png)
+  ![03](answers/Chapter2/Self-Test/03.png)
+  ![04](answers/Chapter2/Self-Test/04.png)
+  ![05a](answers/Chapter2/Self-Test/05a.png)
+  ![05b](answers/Chapter2/Self-Test/05b.png)
+  ![06](answers/Chapter2/Self-Test/06.png)
+  ![07a](answers/Chapter2/Self-Test/07a.png)
+  ![07b](answers/Chapter2/Self-Test/07b.png)
+  ![07c](answers/Chapter2/Self-Test/07c.png)
+  ![08a](answers/Chapter2/Self-Test/08a.png)
+  ![08b](answers/Chapter2/Self-Test/08b.png)
+  ![08c](answers/Chapter2/Self-Test/08c.png)
+  ![09a](answers/Chapter2/Self-Test/09a.png)
+  ![09b](answers/Chapter2/Self-Test/09b.png)
+  ![10](answers/Chapter2/Self-Test/10.png)
+  </details>
   
-![11](answers/Chapter2/Self-Test/11.png)
-![12](answers/Chapter2/Self-Test/12.png)
-![13](answers/Chapter2/Self-Test/13.png)
-![14](answers/Chapter2/Self-Test/14.png)
-![15](answers/Chapter2/Self-Test/15.png)
-![16](answers/Chapter2/Self-Test/16.png)
-![17](answers/Chapter2/Self-Test/17.png)
-![18a](answers/Chapter2/Self-Test/18a.png)
-![18b](answers/Chapter2/Self-Test/18b.png)
-![18c](answers/Chapter2/Self-Test/18c.png)
-![18d](answers/Chapter2/Self-Test/18d.png)
-![19a](answers/Chapter2/Self-Test/19a.png)
-![19b](answers/Chapter2/Self-Test/19b.png)
-![20](answers/Chapter2/Self-Test/20.png)
-</details>
+  <details>
+  <summary><i> Self-Test Questions 11-20 </i></summary>
+    
+  ![11](answers/Chapter2/Self-Test/11.png)
+  ![12](answers/Chapter2/Self-Test/12.png)
+  ![13](answers/Chapter2/Self-Test/13.png)
+  ![14](answers/Chapter2/Self-Test/14.png)
+  ![15](answers/Chapter2/Self-Test/15.png)
+  ![16](answers/Chapter2/Self-Test/16.png)
+  ![17](answers/Chapter2/Self-Test/17.png)
+  ![18a](answers/Chapter2/Self-Test/18a.png)
+  ![18b](answers/Chapter2/Self-Test/18b.png)
+  ![18c](answers/Chapter2/Self-Test/18c.png)
+  ![18d](answers/Chapter2/Self-Test/18d.png)
+  ![19a](answers/Chapter2/Self-Test/19a.png)
+  ![19b](answers/Chapter2/Self-Test/19b.png)
+  ![20](answers/Chapter2/Self-Test/20.png)
+  </details>
 </details>
