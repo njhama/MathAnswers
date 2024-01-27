@@ -1,8 +1,8 @@
 # 407 Textbook Answers
 <details>
-<summary><i>Ch 1 Problems</i></summary>
+<summary><s>Ch 1 Problems</s></summary>
   <details>
-  <summary>➤ Problems 1-10</summary>
+  <summary><i> Problems 1-10 </i></summary>
     
   ![01a](answers/Chapter1/Problems/01a.png)
   ![01b](answers/Chapter1/Problems/01b.png)
