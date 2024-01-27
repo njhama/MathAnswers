@@ -2,7 +2,7 @@
 <details>
 <summary>Ch 1 Problems</summary>
   <details>
-  <summary>  Problems 1-10</summary>
+  <summary>➤  Problems 1-10</summary>
     
   ![01a](answers/Chapter1/Problems/01a.png)
   ![01b](answers/Chapter1/Problems/01b.png)
